@@ -26,12 +26,13 @@ Once the bot is running, you can interact with it by typing questions. Try these
 
 To end the conversation, type `exit` or `quit`.
 
-## Example Interaction 💬
+## FAQ Bot Interaction 💬
 
-<div align="center">
+
 ![FAQ Bot Conversation screenshots]((https://github.com/Rabab-Muhammad/Basic-FAQ-Agent/tree/main/screenshots)))
 
-</div>
+
+
 
 
 
