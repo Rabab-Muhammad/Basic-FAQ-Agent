@@ -28,9 +28,10 @@ To end the conversation, type `exit` or `quit`.
 
 ## FAQ Bot Interaction 💬
 
+<div>
+![FAQ Bot Conversation screenshots](https://github.com/Rabab-Muhammad/Basic-FAQ-Agent/tree/main/screenshots)
 
-![FAQ Bot Conversation screenshots]((https://github.com/Rabab-Muhammad/Basic-FAQ-Agent/tree/main/screenshots)))
-
+</div>
 
 
 
