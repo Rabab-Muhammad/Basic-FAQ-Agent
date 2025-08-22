@@ -21,15 +21,15 @@ Once the bot is running, you can interact with it by typing questions. Try these
 - `"What can you do?"`
 - `"Who created you?"`
 - `"What is your purpose?"`
-- `"How do I exit?"`
+- `"When were you launched?"`
+- `"What version are you?"`
 
 To end the conversation, type `exit` or `quit`.
 
 ## Example Interaction 💬
 
 <div align="center">
-<img src="screenshots/conversation-example.png" alt="FAQ Bot Conversation Example" width="600"/>
-
-*Example conversation with the FAQ Bot*
+![FAQ Bot Conversation Example](https://github.com/your-username/faq-bot/blob/main/screenshots/conversation-example.png?raw=true)
 
 </div>
+
