@@ -1,4 +1,4 @@
-# FAQ Bot - AI-Powered Assistant 🤖- Assignment- 3
+# FAQ Bot - AI-Powered Assistant 🤖- Assignment-2
 
 
 ## Overview 📝
@@ -32,6 +32,7 @@ To end the conversation, type `exit` or `quit`.
 ![FAQ Bot Conversation screenshots](https://github.com/Rabab-Muhammad/Basic-FAQ-Agent/tree/main/screenshots)
 
 </div>
+
 
 
 
